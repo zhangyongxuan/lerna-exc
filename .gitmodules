@@ -1,0 +1,6 @@
+[submodule "packages/static-server"]
+	path = packages/static-server
+	url = git@github.com:zhangyongxuan/static-server.git
+[submodule "packages/music-api"]
+	path = packages/music-api
+	url = git@github.com:zhangyongxuan/musicapi.git
